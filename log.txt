@@ -1,0 +1,24 @@
+Customer event [Mon Nov 04 15:42:31 GMT 2019] Serving com.company.W3.Customers.RandomCustomer [1 Coffee, 2 Biscuits, 2 Milk, 1 Bacon, 1 Newspaper]
+Customer event [Mon Nov 04 15:42:31 GMT 2019] Serving com.company.W3.Customers.BigSpender [10 Biscuits, 10 Milk, 20 Bacon, 10 Newspaper]
+Customer event [Mon Nov 04 15:42:31 GMT 2019] Serving Window Shopper: I don't buy things...
+Customer event [Mon Nov 04 15:42:31 GMT 2019] Serving Spontaneous Customer: I haven't decided yet!
+Customer event [Mon Nov 04 15:42:31 GMT 2019] Spontaneous Customer: [1 Coffee, 2 Milk, 1 Newspaper]
+Customer event [Mon Nov 04 15:42:31 GMT 2019] Serving com.company.W3.Customers.RandomCustomer [2 Coffee, 2 Biscuits, 1 Newspaper]
+Customer event [Mon Nov 04 15:42:31 GMT 2019] Serving com.company.W3.Customers.BigSpender [20 Coffee, 20 Milk, 20 Bacon, 10 Newspaper]
+Customer event [Mon Nov 04 15:42:31 GMT 2019] Serving Window Shopper: I don't buy things...
+Customer event [Mon Nov 04 15:42:31 GMT 2019] Serving Spontaneous Customer: I haven't decided yet!
+Customer event [Mon Nov 04 15:42:31 GMT 2019] Spontaneous Customer: [1 Biscuits, 2 Milk, 2 Bacon, 1 Newspaper]
+Shop event [Mon Nov 04 15:42:31 GMT 2019] Today's transactions:
+Added 19.76. Total now: 219.76
+Added 135.7. Total now: 355.46
+Added 9.99. Total now: 365.45
+Added 16.96. Total now: 382.40999999999997
+Added 225.60000000000002. Total now: 608.01
+Added 15.57. Total now: 623.58
+Removed 60.0. Total now: 563.58
+Shop event [Mon Nov 04 15:42:31 GMT 2019] Current Product Numbers
+57 Bacon
+85 Biscuits
+76 Coffee
+64 Milk
+76 Newspaper
